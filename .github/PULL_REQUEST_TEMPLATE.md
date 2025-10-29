@@ -8,7 +8,7 @@ Before submitting this pull request, please confirm that you have completed the 
 
 ###  Asset Requirements
 - [ ] My server has an `icon.png` file (64x64 to 512x512 pixels, must be square)
-- [ ] My server has a `bg.png` file (1920x1080 pixels)
+- [ ] My server has a `background.png` file (1920x1080 pixels)
 - [ ] Both image files are in PNG format
 - [ ] Image files are properly referenced in the manifest.json (paths start with `./`)
 
